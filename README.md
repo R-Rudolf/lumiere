@@ -1,7 +1,8 @@
 
 ## Plan
   - 🥇Have a Photo backup service
-    - Auto mount external HDD (after plugin, after reboot)
+    - Auto mount external HDD (after plugin, after reboot) ✔
+      - Followed: https://gist.github.com/etes/aa76a6e9c80579872e5f
     - Deploy Piwigo: https://piwigo.org/guides/install/manual
       - requires php and sql
       - Maybe useful: https://github.com/linuxserver/docker-piwigo
